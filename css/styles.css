@@ -738,7 +738,7 @@ button {
   margin-bottom: 24px;
 }
 
-.check-text a {
+.check-link {
   line-height: 133%;
   text-decoration: underline;
   text-decoration-skip-ink: none;

@@ -634,7 +634,7 @@ button {
 }
 
 .modal-input placeholder {
-  color: #ffffff; 
+  color: #ffffff;
 }
 
 .modal-input:focus {
@@ -704,4 +704,22 @@ button {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;
+}
+
+.submit-button {
+  min-width: 165px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  cursor: pointer;
+  background-color: #4d5ae5;
+  border: none;
+  border-radius: 4px;
 }

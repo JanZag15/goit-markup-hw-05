@@ -531,9 +531,6 @@ button {
 
 .subscribe-form {
   display: flex;
-}
-
-.label-form {
   gap: 24px;
 }
 
@@ -551,7 +548,7 @@ button {
   color: #ffffff;
 }
 
-.email-form placeholder{
+.email-form placeholder {
   color: #ffffff;
 }
 

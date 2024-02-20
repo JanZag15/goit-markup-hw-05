@@ -647,6 +647,8 @@ button {
   font-weight: 500;
   padding-bottom: 16px;
   text-align: center;
+  color: #2e2f42;
+  margin-bottom: 16px;
 }
 
 .modal-field {
@@ -679,6 +681,10 @@ button {
 .modal-label {
   display: block;
   margin-bottom: 4px;
+  font-size: 12px;
+  line-height: 1.17;
+  letter-spacing: 0.04em;
+  color: #8e8f99;
 }
 
 .modal-icon {
